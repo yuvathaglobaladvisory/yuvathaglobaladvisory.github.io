@@ -11,20 +11,30 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-agency
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+title      : Yuvatha Global Advisory
+email      : prathima.madasu@hotmail.com #this is also the email contact forms will go to
+description: "Empowering Journeys. Simplifying Processes. Unlocking Opportunities.
+
+At Yuvatha Global Advisory, we are your trusted partner in navigating the world of travel, housing, and global mobility. Whether you're planning a move, applying for a visa, searching for property, or preparing for international travel — we make it simple, stress-free, and successful.
+
+🚀 Our Core Services:
+Travel Advisory: Tailored itineraries, destination insights, and real-time travel support.
+
+Housing & Property Assistance: Expert guidance on buying, renting, or relocating in the UK, India, Europe, and beyond.
+
+Visa & Application Support: Clear, accurate help for visa applications, immigration documents, and form filling — no confusion, no delays.
+
+We combine local knowledge with global expertise to provide advisory services that are personal, prompt, and practical. Backed by real-world experience and a passion for helping people succeed, we turn your complex goals into confident steps forward."
+author     : Prathima Madasu
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale: "en-UK" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
